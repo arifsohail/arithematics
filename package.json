@@ -1,0 +1,19 @@
+{
+  "name": "arithematics",
+  "version": "1.0.0",
+  "description": "simple arithematic package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifsohail/arithematics.git"
+  },
+  "author": "arifsohail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifsohail/arithematics/issues"
+  },
+  "homepage": "https://github.com/arifsohail/arithematics#readme"
+}
